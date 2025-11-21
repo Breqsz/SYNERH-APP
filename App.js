@@ -1,18 +1,3 @@
-/**
- * SYNERH Mobile - Main App Component
- * Aplicativo mobile para rede profissional descentralizada
- * 
- * Global Solution 2025 - FIAP
- * Disciplina: Mobile Development and IOT
- * 
- * Funcionalidades:
- * - Navegação híbrida (Stack + Bottom Tabs)
- * - Firebase Authentication
- * - Firebase Realtime Database
- * - OpenAI API para recomendações personalizadas
- * - Dados mockados simulando backend SOA
- */
-
 import React, { useState, useEffect } from 'react';
 import { View, ActivityIndicator, StyleSheet } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';

@@ -4,7 +4,7 @@
 
 ### 1️⃣ Instalar Dependências
 ```bash
-cd /home/ubuntu/synerh_mobile
+/synerh_mobile
 npm install
 ```
 
@@ -178,26 +178,6 @@ synerh_mobile/
 
 ---
 
-## 🎨 Customização
-
-### Cores:
-Edite as cores principais em cada arquivo de screen:
-- Primary: `#6366F1` (Indigo)
-- Secondary: `#8B5CF6` (Violet)
-- Background: `#F9FAFB` (Gray)
-
-### Dados Mockados:
-Edite `src/data/mockData.js` para adicionar mais quests, cursos ou modificar dados existentes.
-
----
-
-## 📞 Suporte
-
-- 📖 Documentação completa: `README.md`
-- 📊 Resumo do projeto: `PROJECT_SUMMARY.md`
-- 🔍 Verificação de componentes: `node verify_components.js`
-
----
 
 ## 🎓 Informações do Projeto
 
@@ -208,6 +188,6 @@ Edite `src/data/mockData.js` para adicionar mais quests, cursos ou modificar dad
 
 ---
 
-**Desenvolvido com ❤️ para FIAP Global Solution 2025**
+
 
 *SYNERH - Conectando profissionais ao futuro do trabalho* 🚀

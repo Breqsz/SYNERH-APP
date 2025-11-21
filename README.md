@@ -59,7 +59,7 @@ Antes de começar, certifique-se de ter instalado:
 ### 1. Clone ou navegue até o projeto
 
 ```bash
-cd /home/ubuntu/synerh_mobile
+/synerh_mobile
 ```
 
 ### 2. Instale as dependências
